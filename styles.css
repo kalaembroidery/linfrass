@@ -1,0 +1,61 @@
+.container-fluid{
+  background-color: #FF6E31;
+  padding-top:20px;
+  padding-bottom: 20px;
+
+}
+
+.c{
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+
+}
+#carouselExampleCaptions{
+  background-color: #FF6E31;
+}
+.tom{
+  width: 80%;
+  height: 80%;
+  padding-left: 300px;
+}
+.final{
+  background-color: #FF6E31;
+}
+p{
+text-align: center;
+padding-top: 20px;
+padding-bottom: 20px;
+padding-right: 30px;
+padding-left: 30px;
+}
+h1{
+  padding-left: 20px;
+padding-top: 40px;
+text-align: center;
+}
+.navbar {
+padding: 0 0 4.5rem;
+}
+
+.navbar-brand {
+font-family: 'Ubuntu';
+font-size: 2.5rem;
+font-weight: bold;
+}
+
+.nav-item {
+padding: 0 18px;
+}
+
+.nav-link {
+font-size: 1.2rem;
+font-family: 'Montserrat-Black',sans-serif;
+}
+.nav-link:hover{
+color:#442727;
+}
+.responsive {
+  width: 100%;
+  height: auto;
+}
